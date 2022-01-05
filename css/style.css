@@ -1,0 +1,141 @@
+a {
+  color: #EFEFEF;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #2C2E43;
+}
+body {
+  background-color: #B2B1B9;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #FFC069;
+  font-size: 5.625rem;
+  margin: 20px auto 0 auto;
+  font-family: 'Pirata One', cursive;
+  line-height: 2;
+}
+
+h2 {
+  color: #FFC069;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #C7956D;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+}
+
+hr {
+  border: 6px dotted #534E52;
+  border-bottom: none;
+  width: 5%;
+}
+p {
+  line-height: 2;
+}
+.top-container {
+  background-color: #595260;
+  position: relative;
+  padding-top: 100px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.middle-container {
+  margin: 100px 0;
+}
+
+.skills {
+  padding-top: 10px;
+}
+
+.bottom-container {
+  background-color: #595260;
+  padding: 50px 0 20px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.logo {
+  float: left;
+  margin-right: 30px;
+  width: 25%
+}
+
+.mini {
+  float: right;
+  margin-left: 30px;
+  width: 25%
+}
+.mini-skill-description {
+  float: left;
+  margin-right: 30px;
+  width: 25%
+}
+.cooking {
+  float: left;
+  margin-right: 30px;
+  width: 25%
+}
+
+.castle {
+  width: 25%;
+}
+
+.copyright {
+  color: #B2B1B9;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.dragon {
+  width: 25%;
+  position: absolute;
+  right: 1100px;
+  bottom: 500px;
+}
+
+
+.btn {
+  background: #F2D974;
+  background-image: -webkit-linear-gradient(top, #F2D974, #FFD523);
+  background-image: -moz-linear-gradient(top, #F2D974, #FFD523);
+  background-image: -ms-linear-gradient(top, #F2D974, #FFD523);
+  background-image: -o-linear-gradient(top, #F2D974, #FFD523);
+  background-image: linear-gradient(to bottom, #F2D974, #FFD523);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #595260;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #A45D5D;
+  text-decoration: none;
+}
+.contact-message {
+  margin: 40px auto 60px;
+  width: 30%
+}
